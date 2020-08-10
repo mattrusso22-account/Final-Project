@@ -28,6 +28,8 @@ Step 12 - Time to use the model to make predictions: display an array of the pre
 
 Step 13 - Optional/Not required: plot the predictions. 
 
+URL to dataset: https://www.kaggle.com/andrewsundberg/college-basketball-dataset
+
 Step 14 - Print Mean Absolute Error (MAE) as this is a valuable stastical measurement. Helps us draw inisghts and conclusions on how effective our model is.
 
 Step 15 - Create a dataframe of the actual number of wins the teams had vs our predictions. Make a third a column that shows the difference (how close we are). Show the top 20 most accurate predictions.
